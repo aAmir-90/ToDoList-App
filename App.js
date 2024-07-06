@@ -1,4 +1,3 @@
-import { StatusBar } from "expo-status-bar";
 import { SafeAreaView, StyleSheet, Text, View } from "react-native";
 import TodoScreen from "./src/Screen/TodoScreen";
 
